@@ -1,6 +1,6 @@
 {
     "name": "zzzz0317/flarum-ext-mediaembed",
-    "description": "自动识别第三方网站的媒体（图片、视频、音频）并内嵌到 Flarum 。（https版本）",
+    "description": "自动识别第三方网站的媒体（图片、视频、音频）并内嵌到 Flarum 。",
     "type": "flarum-extension",
     "keywords": ["music","media","embed","video","bilibili","youku","ku6","tucao","tudou","neteasemusic","acfun","qq","mgtv"],
     "version": "0.1.0",
