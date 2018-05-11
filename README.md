@@ -2,10 +2,10 @@
 
 自动识别第三方网站的媒体（图片、视频、音频）并内嵌到 Flarum （https版本）。
 
-# 安装 暂未发布
+# 安装 暂不可用
 
 ```
-~~composer require zzzz0317/flarum-ext-mediaembed~~
+composer require zzzz0317/flarum-ext-mediaembed
 ```
 # 自动识别图片链接
 
