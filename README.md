@@ -2,7 +2,7 @@
 
 自动识别第三方网站的媒体（图片、视频、音频）并内嵌到 Flarum 。
 
-## 安装 暂不可用
+## 安装
 
 ```
 composer require zzzz0317/flarum-ext-mediaembed
