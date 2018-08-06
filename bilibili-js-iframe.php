@@ -5,7 +5,8 @@
 <title>Bilibili 外链播放器跳转</title>
 </head>
 <body>
-<p>Bilibili 外链播放器跳转</p>
+<h3>Bilibili 外链播放器跳转</h3>
+<p>正在获取视频信息，请稍后</p>
 <p>
 xmlhttp: <span id="txt-xmlhttp"></span>
 <br>
