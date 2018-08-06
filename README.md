@@ -20,6 +20,15 @@ composer require zzzz0317/flarum-ext-mediaembed
 
 - 哔哩哔哩
 
+## 测试通过的链接格式
+```
+https://www.bilibili.com/video/av7/
+https://www.bilibili.com/video/av7
+https://music.163.com/#/song?id=22677433
+https://www.youtube.com/watch?v=92rYjlxqypM
+```
+请注意链接格式
+
 ## 支持
 
 - [https://home.asec01.net/](https://home.asec01.net/)
