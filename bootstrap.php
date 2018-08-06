@@ -79,7 +79,7 @@ function subscribe(Dispatcher $events)
                     'iframe'  => [
                         'width'  => 760,
                         'height' => 450,
-                        'src'    => '/vendor/zzzz0317/flarum-ext-mediaembed/js-iframe.php?aid={@id}'
+                        'src'    => '/vendor/zzzz0317/flarum-ext-mediaembed/bilibili-js-iframe.php?aid={@id}'
                     ]
                 ]
             );
