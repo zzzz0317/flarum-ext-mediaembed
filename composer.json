@@ -3,7 +3,7 @@
     "description": "自动识别第三方网站的媒体（图片、视频、音频）并内嵌到 Flarum 。",
     "type": "flarum-extension",
     "keywords": ["music","media","embed","video","bilibili","TouTube","neteasemusic"],
-    "version": "0.1.1",
+    "version": "0.1.2",
     "license": "MIT",
     "authors": [
         {
