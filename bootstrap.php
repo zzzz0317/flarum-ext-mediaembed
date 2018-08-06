@@ -34,6 +34,7 @@ function subscribe(Dispatcher $events)
             		'host'    => 'music.163.com',
 					'extract' => [
 						'!music\\.163\\.com/#/(?\'mode\'song|album|playlist)\\?id=(?\'id\'\\d+)!',
+						'!music\\.163\\.com/m/(?\'mode\'song|album|playlist)\\?id=(?\'id\'\\d+)!',
 						'!music\\.163\\.com/(?\'mode\'song|album|playlist)\\?id=(?\'id\'\\d+)!',
 						'!music\\.163\\.com/(?\'mode\'song|album|playlist)/(?\'id\'\\d+)/\\?userid=(?\'uid\'\\d+)!',
 					],
